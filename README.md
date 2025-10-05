@@ -14,3 +14,5 @@ Welcome to Duck Game Online – a fun 2D platformer where ducks do more than jus
 Whether you want to challenge your friends or just hang out in a silly duck world, Duck Game Online is here to quack you up! 🐤💥
 
 🚀 Join the fun and let the egg battles begin!
+
+![Game GIF](/game.gif)
