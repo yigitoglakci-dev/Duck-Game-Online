@@ -15,4 +15,6 @@ Whether you want to challenge your friends or just hang out in a silly duck worl
 
 🚀 Join the fun and let the egg battles begin!
 
+[Download](https://drive.google.com/file/d/1ne6fD5FR7SblfnR5-pM4AoDJrjK8ie4n/view?usp=sharing)
+
 ![Game GIF](/game.gif)
